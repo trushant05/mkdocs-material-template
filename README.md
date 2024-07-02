@@ -1,8 +1,9 @@
+
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
 <!--
-*** I'm using markdown "reference style" links for readability.
+*** The README I refered to make this was using  markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
@@ -20,22 +21,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Trushant-Adeshara-UM/nvidia_dev_contest">
+  <a href=""https://github.com/trushant05/mkdocs_material_template>
     <img src="images/logo.png" alt="Logo" width="200" height="120">
   </a>
 
-  <h3 align="center">Just the Docs Template</h3>
-  
+  <h3 align="center">Project Title</h3>
+
   <p align="center">
     <br />
-    <a href="https://github.com/MassRobotics-FnF-Challenge/base_template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/trushant05/mkdocs_material_template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MassRobotics-FnF-Challenge/base_template">View Demo</a>
+    <a href="https://github.com/trushant05/mkdocs_material_template">View Demo</a>
     ·
-    <a href="https://github.com/MassRobotics-FnF-Challenge/base_template/issues">Report Bug</a>
+    <a href="https://github.com/trushant05/mkdocs_material_template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MassRobotics-FnF-Challenge/base_template/issues">Request Feature</a>
+    <a href="/https://github.com/trushant05/mkdocs_material_template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -74,33 +75,31 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project is an exploration of my passions and skills in the field of C++ programming, game development, and robotics. It serves as a comprehensive knowledge base that documents my journey and learnings in these areas. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+I created this project for a great cause: to inspire others and contribute to the community by sharing my knowledge and experiences. Here's why I embarked on this journey:
+* **Learning C++**: I've always wanted to deepen my understanding of C++ and build a solid foundation in this powerful programming language.
+* **Robotics**: I love building robots and find it incredibly fun to share my learning process and projects with others who share the same passion.
+* **Game Development**: Games made in Unity have always inspired me, and I aspired to create one of my own, turning my creative ideas into interactive experiences.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+This template might not cover all your requirements for an ideal project template, and that's okay. My role is to provide a starting point, and now it's your turn to customize and expand it to fit your specific needs. 
 
-Use the `BLANK_README.md` to get started.
+Use this `README.md` as the foundation for your project documentation and let your creativity and expertise take it from here.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![C][C-badge]][C-url]
+* [![C++][Cpp-badge]][Cpp-url]
+* [![Python][Python-badge]][Python-url]
+* [![MATLAB][Matlab-badge]][Matlab-url]
+* [![JavaScript][Js-badge]][Js-url]
+* [![Rust][Rust-badge]][Rust-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +163,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/MassRobotics-FnF-Challenge/base_template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/trushant05/mkdocs_material_template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,32 +225,32 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MassRobotics-FnF-Challenge/base_template.svg?style=for-the-badge
-[contributors-url]: https://github.com/MassRobotics-FnF-Challenge/base_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MassRobotics-FnF-Challenge/base_template.svg?style=for-the-badge
-[forks-url]: https://github.com/MassRobotics-FnF-Challenge/base_template/forks
-[stars-shield]: https://img.shields.io/github/stars/MassRobotics-FnF-Challenge/base_template.svg?style=for-the-badge
-[stars-url]: https://github.com/MassRobotics-FnF-Challenge/base_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MassRobotics-FnF-Challenge/base_template.svg?style=for-the-badge
-[issues-url]: https://github.com/MassRobotics-FnF-Challenge/base_template/issues
-[license-shield]: https://img.shields.io/github/license/MassRobotics-FnF-Challenge/base_template.svg?style=for-the-badge
-[license-url]: https://github.com/MassRobotics-FnF-Challenge/base_template/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/trushant05/mkdocs_material_template.svg?style=for-the-badge
+[contributors-url]: https://github.com/trushant05/mkdocs_material_template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/trushant05/mkdocs_material_template.svg?style=for-the-badge
+[forks-url]: https://github.com/trushant05/mkdocs_material_template/forks
+[stars-shield]: https://img.shields.io/github/stars/trushant05/mkdocs_material_template.svg?style=for-the-badge
+[stars-url]: https://github.com/trushant05/mkdocs_material_template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/trushant05/mkdocs_material_template.svg?style=for-the-badge
+[issues-url]: https://github.com/trushant05/mkdocs_material_template/issues
+[license-shield]: https://img.shields.io/github/license/trushant05/mkdocs_material_template.svg?style=for-the-badge
+[license-url]: https://github.com/trushant05/mkdocs_material_template/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/trushant-adeshara/
 [product-screenshot]: images/screenshot.jpeg
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+
+[C-badge]: https://img.shields.io/badge/C-white?style=flat
+[C-url]: https://www.learn-c.org/
+[Cpp-badge]: https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=cpp
+[Cpp-url]: https://cplusplus.com/
+[Python-badge]: https://img.shields.io/badge/Python-white?style=flat&logo=python
+[Python-url]: https://www.python.org/
+[Matlab-badge]: https://img.shields.io/badge/MATLAB-white?style=flat&logo=MATLAB
+[Matlab-url]: https://www.mathworks.com/products/matlab.html
+[Js-badge]: https://img.shields.io/badge/Javascript-black?style=flat&logo=javascript
+[Js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Rust-badge]: https://img.shields.io/badge/Rust-black?style=flat&logo=rust
+[Rust-url]: https://www.rust-lang.org/
+
+## Reference
+This README.md file was inspired from work of [othneildrew](https://github.com/othneildrew/Best-README-Template).
